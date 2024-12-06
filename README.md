@@ -8,6 +8,12 @@
 <br>
 <img src="diagramas_clases_reservas.png">
 
+<br>
+
+---
+
+<br>
+
 <details>
     <summary>Clic para ver el contenido</summary>
 </details>
@@ -39,6 +45,12 @@
 <br>
 <br>
 <img src="diagramas_clases_biblioteca_2.drawio.png">
+
+<br>
+
+---
+
+<br>
 
 <details>
     <summary>Clic para ver el contenido</summary>
