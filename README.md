@@ -44,7 +44,11 @@
 <br>
 <br>
 <br>
-<img src="diagramas_clases_biblioteca_2.drawio.png">
+<details>
+    <summary>Clic para ver el contenido</summary>
+    <img src="diagramas_clases_biblioteca_2.drawio.png">
+</details>
+
 
 <br>
 
